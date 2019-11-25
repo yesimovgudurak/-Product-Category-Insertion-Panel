@@ -1,0 +1,64 @@
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.exe.config
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.exe
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.pdb
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.dll
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.xml
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Form1.resources
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Properties.Resources.resources
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.CopyComplete
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.exe
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.pdb
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Urunler.resources
+C:\Users\Burak\source\repos\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.exe.config
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.exe
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.xml
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Form1.resources
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Properties.Resources.resources
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Urunler.resources
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.GenerateResource.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.CopyComplete
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.exe
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\Entity Framework\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.exe.config
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.exe
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.xml
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Form1.resources
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Properties.Resources.resources
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Urunler.resources
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.GenerateResource.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.CopyComplete
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.exe
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\9.Hafta\270319\Ders1_CodeFirst\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.pdb
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.exe.config
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.exe
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\KaregoriEklemePanali.pdb
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.dll
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.xml
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csprojAssemblyReference.cache
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Form1.resources
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Properties.Resources.resources
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.Urunler.resources
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.GenerateResource.cache
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.CoreCompileInputs.cache
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.csproj.CopyComplete
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.exe
+C:\Users\Ovgu.durak\Desktop\KaregoriEklemePanali_EF\KaregoriEklemePanali\obj\Debug\KaregoriEklemePanali.pdb
